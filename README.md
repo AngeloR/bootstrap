@@ -1,6 +1,8 @@
 TWITTER BOOTSTRAP
 =================
 
+[![Join the chat at https://gitter.im/AngeloR/bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AngeloR/bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bootstrap is Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
 
 To get started -- checkout http://twitter.github.com/bootstrap!
